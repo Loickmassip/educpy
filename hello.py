@@ -11,6 +11,7 @@ def record_result(result):
 if __name__ == "__main__":
   print("Welcome to EducPy Calculator, please enter your values")
   # Input values
+  # add your addition
   # call record_result once calculation is done  
 
 
